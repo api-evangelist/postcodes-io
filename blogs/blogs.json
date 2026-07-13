@@ -1,0 +1,14 @@
+{
+  "repo": "postcodes-io",
+  "feeds": [
+    {
+      "source": "https://blog.ideal-postcodes.co.uk/tag/postcodes-io",
+      "feed_url": "https://blog.ideal-postcodes.co.uk/rss.xml",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 6
+}

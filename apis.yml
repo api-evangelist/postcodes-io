@@ -1,4 +1,16 @@
 aid: postcodes-io
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/postcodes-io.png
 name: Postcodes.io
 description: "Postcode lookup & Geolocation for the UK"
 url: https://postcodes.io

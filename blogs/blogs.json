@@ -2,13 +2,20 @@
   "repo": "postcodes-io",
   "feeds": [
     {
+      "source": "https://blog.ideal-postcodes.co.uk/rss.xml",
+      "feed_url": "https://blog.ideal-postcodes.co.uk/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://blog.ideal-postcodes.co.uk/tag/postcodes-io",
       "feed_url": "https://blog.ideal-postcodes.co.uk/rss.xml",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "discovered"
     }
   ],
-  "fetched": "2026-07-11T11:50:51Z",
-  "post_count": 6
+  "fetched": "2026-08-01T15:49:00Z",
+  "post_count": 15
 }

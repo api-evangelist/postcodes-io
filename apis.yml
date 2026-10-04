@@ -39,7 +39,6 @@ apis:
   - name: Postcodes.io
     description: "Postcode lookup & Geolocation for the UK"
     humanURL: https://postcodes.io
-    baseURL: https://postcodes.io
     tags:
       - Geocoding
     properties:
